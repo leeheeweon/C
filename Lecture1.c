@@ -5,6 +5,5 @@ int main(void) {
     int b = 2;
     int c = a + b;
 
-    printf("Result is %i", c);
     return 0;
 }
